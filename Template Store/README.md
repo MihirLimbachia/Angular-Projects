@@ -1,3 +1,6 @@
+# Template Store - A simple SPA with paypal integration to buy web templates.
+
+## Built using Angular Seed
 # `angular-seed` — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS][angularjs] web app. You can use it
